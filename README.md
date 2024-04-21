@@ -1,7 +1,8 @@
-![Header](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+![Header](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+
 
 <h1 align="center">Hi 👋, I'm Nawaf Mohammed</h1>
-<h3 align="center">A passionate frontend developer from Saudi Arabia</h3>
+<h3 align="center">A passionate frontend developer from Saudi Arabia.</h3>
 
 <p align="left"> <a href="https://twitter.com/nwaf_030" target="blank"><img src="https://img.shields.io/twitter/follow/nwaf_030?logo=twitter&style=for-the-badge" alt="nwaf_030" /></a> </p>
 
